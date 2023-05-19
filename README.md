@@ -1,7 +1,7 @@
 # Web3GeekForge
 # Web3 极客公开课
 
-Web3 极客公开课（Web3 Geek Forge）由 [Rebase](https://twitter.com/RebaseCommunity)、[登链社区](https://twitter.com/UpchainDAO)、[BuidlerDAO](https://twitter.com/BuidlerDAO) 联合打造。邀请优质的嘉宾，做深度、硬核的技术分享，提供行业建设者的交流空间。如果你也有兴趣来聊一聊，欢迎提 issue，或者微信联系晓娜(微信号upchainedu)。
+Web3 极客公开课（Web3 Geek Forge）由 [Rebase](https://twitter.com/RebaseCommunity)、[登链社区](https://twitter.com/UpchainDAO)、[BuidlerDAO](https://twitter.com/BuidlerDAO) 联合打造。邀请优质的嘉宾，做深度、硬核的技术分享，提供行业建设者的交流空间。如果你也有兴趣来聊一聊，**欢迎提 issue **。
 
 * [Web3 极客公开课记录及排期](https://github.com/lbc-team/Web3GeekForge/issues)
 * [telegram交流群](https://t.me/+A9OoK2-mrzc5ODc1)
