@@ -10,8 +10,8 @@ Web3 极客公开课（Web3 Geek Forge）由 [Rebase](https://twitter.com/Rebase
 ## 每期分享嘉宾及主题
 |排期|嘉宾|详情|
 |--|--|--|
-|1|MCG 智能合约研发liquan.eth| |
-|2|Tim , Midaswap Co-Founder| |
+|1|MCG 智能合约研发[liquan.eth](https://twitter.com/liquan_eth)| |
+|2|[Tim](https://twitter.com/Sky_ranker) , Midaswap Co-Founder| |
 |3|robot —— DF Archon 成员| |
 |4|於方仁——KNN3算法工程师| |
 |5|w3tester, Founder of zCloak Network| |
